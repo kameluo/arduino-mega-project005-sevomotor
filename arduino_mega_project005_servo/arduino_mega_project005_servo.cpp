@@ -6,7 +6,7 @@
 Servo myServo;
 int servoPin=9;
 
-//controling a servo motor
+//controling a servo-motor
 void setup() {
 myServo.attach(servoPin);
 }
